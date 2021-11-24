@@ -1,1 +1,1 @@
-# simple_snake_game_2021
+# simple_snake_game_2021_32bit
